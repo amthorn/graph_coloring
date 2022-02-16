@@ -1,0 +1,178 @@
+[
+  {
+    "id": "0",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 476,
+      "y": 366
+    }
+  },
+  {
+    "id": "1",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 106,
+      "y": 200
+    }
+  },
+  {
+    "id": "2",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 377,
+      "y": 404
+    }
+  },
+  {
+    "id": "3",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 489,
+      "y": 58
+    }
+  },
+  {
+    "id": "4",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 375,
+      "y": 68
+    }
+  },
+  {
+    "id": "5",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 256,
+      "y": 10
+    }
+  },
+  {
+    "id": "6",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 375,
+      "y": 188
+    }
+  },
+  {
+    "id": "e0-3",
+    "source": "0",
+    "target": "3",
+    "type": "glowing"
+  },
+  {
+    "id": "e0-5",
+    "source": "0",
+    "target": "5",
+    "type": "glowing"
+  },
+  {
+    "id": "e2-4",
+    "source": "2",
+    "target": "4",
+    "type": "glowing"
+  },
+  {
+    "id": "e20",
+    "source": "2",
+    "target": "1",
+    "type": "glowing"
+  },
+  {
+    "id": "e0-4",
+    "source": "0",
+    "target": "4",
+    "type": "glowing"
+  },
+  {
+    "id": "e2-0",
+    "source": "2",
+    "target": "0",
+    "type": "glowing"
+  },
+  {
+    "id": "e4-6",
+    "source": "4",
+    "target": "6",
+    "type": "glowing"
+  },
+  {
+    "id": "e1-3",
+    "source": "1",
+    "target": "3",
+    "type": "glowing"
+  },
+  {
+    "id": "e3-6",
+    "source": "3",
+    "target": "6",
+    "type": "glowing"
+  },
+  {
+    "id": "e2-3",
+    "source": "2",
+    "target": "3",
+    "type": "glowing"
+  },
+  {
+    "id": "e4-1",
+    "source": "4",
+    "target": "1",
+    "type": "glowing"
+  },
+  {
+    "id": "e4-3",
+    "source": "4",
+    "target": "3",
+    "type": "glowing"
+  },
+  {
+    "id": "e5-4",
+    "source": "5",
+    "target": "4",
+    "type": "glowing"
+  }
+]

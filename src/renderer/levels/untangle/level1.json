@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "type": "circle",
+    "position": {
+      "x": 400,
+      "y": 300
+    }
+  },
+  {
+    "id": "2",
+    "type": "circle",
+    "position": {
+      "x": 600,
+      "y": 300
+    }
+  },
+  {
+    "id": "3",
+    "type": "circle",
+    "position": {
+      "x": 400,
+      "y": 500
+    }
+  },
+  {
+    "id": "4",
+    "type": "circle",
+    "position": {
+      "x": 600,
+      "y": 500
+    }
+  },
+  {
+    "id": "e2-3",
+    "source": "2",
+    "target": "3",
+    "type": "glowing"
+  },
+  {
+    "id": "e1-4",
+    "source": "1",
+    "target": "4",
+    "type": "glowing"
+  }
+]

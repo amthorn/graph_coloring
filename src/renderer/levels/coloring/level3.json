@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "position": {
+      "x": 500,
+      "y": 50
+    }
+  },
+  {
+    "id": "2",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "position": {
+      "x": 300,
+      "y": 200
+    }
+  },
+  {
+    "id": "3",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "position": {
+      "x": 400,
+      "y": 200
+    }
+  },
+  {
+    "id": "4",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "position": {
+      "x": 500,
+      "y": 200
+    }
+  },
+  {
+    "id": "e1-2",
+    "source": "1",
+    "target": "2",
+    "type": "glowing"
+  },
+  {
+    "id": "e3-4",
+    "source": "3",
+    "target": "4",
+    "type": "glowing"
+  }
+]

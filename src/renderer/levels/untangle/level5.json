@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "data": {},
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 310,
+      "y": 430
+    },
+    "type": "circle"
+  },
+  {
+    "id": "2",
+    "data": {},
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 250,
+      "y": 325
+    },
+    "type": "circle"
+  },
+  {
+    "id": "3",
+    "data": {},
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 445,
+      "y": 430
+    },
+    "type": "circle"
+  },
+  {
+    "id": "4",
+    "data": {},
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 370,
+      "y": 235
+    },
+    "type": "circle"
+  },
+  {
+    "id": "5",
+    "data": {},
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 490,
+      "y": 325
+    },
+    "type": "circle"
+  },
+  {
+    "source": "1",
+    "sourceHandle": null,
+    "target": "5",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e1-5",
+    "data": {}
+  },
+  {
+    "source": "5",
+    "sourceHandle": null,
+    "target": "3",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e5-3",
+    "data": {}
+  },
+  {
+    "source": "2",
+    "sourceHandle": null,
+    "target": "5",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e2-5",
+    "data": {}
+  },
+  {
+    "source": "4",
+    "sourceHandle": null,
+    "target": "5",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e4-5",
+    "data": {}
+  },
+  {
+    "source": "2",
+    "sourceHandle": null,
+    "target": "3",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e2-3",
+    "data": {}
+  },
+  {
+    "source": "4",
+    "sourceHandle": null,
+    "target": "3",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e4-3",
+    "data": {}
+  },
+  {
+    "source": "1",
+    "sourceHandle": null,
+    "target": "4",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e1-4",
+    "data": {}
+  },
+  {
+    "source": "1",
+    "sourceHandle": null,
+    "target": "2",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e1-2",
+    "data": {}
+  }
+]

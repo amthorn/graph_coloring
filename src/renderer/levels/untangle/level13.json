@@ -1,0 +1,186 @@
+[
+  {
+    "id": "0",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 562,
+      "y": 278
+    }
+  },
+  {
+    "id": "1",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 66,
+      "y": 600
+    }
+  },
+  {
+    "id": "2",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 501,
+      "y": 212
+    }
+  },
+  {
+    "id": "3",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 476,
+      "y": 99
+    }
+  },
+  {
+    "id": "4",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 511,
+      "y": 141
+    }
+  },
+  {
+    "id": "5",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 377,
+      "y": 589
+    }
+  },
+  {
+    "id": "6",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 493,
+      "y": 582
+    }
+  },
+  {
+    "id": "7",
+    "type": "circle",
+    "data": {
+      "color": 0
+    },
+    "style": {
+      "width": "50px"
+    },
+    "position": {
+      "x": 246,
+      "y": 240
+    }
+  },
+  {
+    "id": "e1-2",
+    "source": "1",
+    "target": "2",
+    "type": "glowing"
+  },
+  {
+    "id": "e5-7",
+    "source": "5",
+    "target": "7",
+    "type": "glowing"
+  },
+  {
+    "id": "e1-7",
+    "source": "1",
+    "target": "7",
+    "type": "glowing"
+  },
+  {
+    "id": "e2-4",
+    "source": "2",
+    "target": "4",
+    "type": "glowing"
+  },
+  {
+    "id": "e4-5",
+    "source": "4",
+    "target": "5",
+    "type": "glowing"
+  },
+  {
+    "id": "e1-5",
+    "source": "1",
+    "target": "5",
+    "type": "glowing"
+  },
+  {
+    "id": "e1-6",
+    "source": "1",
+    "target": "6",
+    "type": "glowing"
+  },
+  {
+    "id": "e0-2",
+    "source": "0",
+    "target": "2",
+    "type": "glowing"
+  },
+  {
+    "id": "e2-5",
+    "source": "2",
+    "target": "5",
+    "type": "glowing"
+  },
+  {
+    "id": "e0-7",
+    "source": "0",
+    "target": "7",
+    "type": "glowing"
+  },
+  {
+    "id": "e1-4",
+    "source": "1",
+    "target": "4",
+    "type": "glowing"
+  },
+  {
+    "id": "e3-5",
+    "source": "3",
+    "target": "5",
+    "type": "glowing"
+  }
+]

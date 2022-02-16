@@ -6,17 +6,17 @@ body {
   position: relative;
   color: white;
   height: 100vh;
-  background: linear-gradient(
-    200.96deg,
-    #fedc2a -29.09%,
-    #dd5789 51.77%,
-    #7a2c9e 129.35%
-  );
+  background: #ffffff;
   font-family: sans-serif;
   overflow-y: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
 }
 
 button {
@@ -54,9 +54,27 @@ a:hover {
   text-decoration: none;
 }
 
-.Hello {
+/* Graph stuff */
+.react-flow__edge-path {
+  stroke: black;
+  stroke-width: 2;
+}
+
+.circle-node {
+  border-radius: 50%;
+  width: 2.5em;
+  height: 2.5em;
+  border: 1px solid black;
+  padding: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 20px 0;
+}
+
+.react-flow__handle-top {
+  top: 13px !important;
+}
+
+.react-flow__handle-bottom {
+  bottom: 13px !important;
 }

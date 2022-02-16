@@ -1,0 +1,18 @@
+[
+  {
+    "bg": "white",
+    "fg": "black"
+  },
+  {
+    "bg": "red",
+    "fg": "white"
+  },
+  {
+    "bg": "green",
+    "fg": "white"
+  },
+  {
+    "bg": "blue",
+    "fg": "white"
+  }
+]
