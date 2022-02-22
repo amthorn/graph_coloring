@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "data": {},
+    "position": {
+      "x": 430,
+      "y": 125
+    },
+    "type": "circle"
+  },
+  {
+    "id": "2",
+    "data": {},
+    "position": {
+      "x": 670,
+      "y": 230
+    },
+    "type": "circle"
+  },
+  {
+    "id": "3",
+    "data": {},
+    "position": {
+      "x": 670,
+      "y": 465
+    },
+    "type": "circle"
+  },
+  {
+    "id": "4",
+    "data": {},
+    "position": {
+      "x": 430,
+      "y": 600
+    },
+    "type": "circle"
+  },
+  {
+    "id": "5",
+    "data": {},
+    "position": {
+      "x": 180,
+      "y": 465
+    },
+    "type": "circle"
+  },
+  {
+    "id": "6",
+    "data": {},
+    "position": {
+      "x": 180,
+      "y": 230
+    },
+    "type": "circle"
+  },
+  {
+    "source": "1",
+    "sourceHandle": null,
+    "target": "3",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e1-3",
+    "data": {}
+  },
+  {
+    "source": "3",
+    "sourceHandle": null,
+    "target": "5",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e3-5",
+    "data": {}
+  },
+  {
+    "source": "5",
+    "sourceHandle": null,
+    "target": "1",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e5-1",
+    "data": {}
+  },
+  {
+    "source": "6",
+    "sourceHandle": null,
+    "target": "2",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e6-2",
+    "data": {}
+  },
+  {
+    "source": "2",
+    "sourceHandle": null,
+    "target": "4",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e2-4",
+    "data": {}
+  },
+  {
+    "source": "4",
+    "sourceHandle": null,
+    "target": "6",
+    "targetHandle": null,
+    "type": "glowing",
+    "id": "e4-6",
+    "data": {}
+  }
+]

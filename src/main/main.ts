@@ -1,7 +1,7 @@
 /* eslint global-require: off, no-console: off, promise/always-return: off */
 
 import path from 'path';
-import { app, BrowserWindow, shell } from 'electron';
+import { app, BrowserWindow, protocol, shell } from 'electron';
 import { autoUpdater } from 'electron-updater';
 import log from 'electron-log';
 import MenuBuilder from './menu';
@@ -109,6 +109,10 @@ app.on('window-all-closed', () => {
 app
   .whenReady()
   .then(() => {
+    protocol.interceptFileProtocol('file', (request, callback) => {
+      const url = request.url.substr(7)    /* all urls start with 'file://' */
+      callback({ path: path.normalize(`${__dirname}/${url}`)})
+    });
     createWindow();
     app.on('activate', () => {
       // On macOS it's common to re-create a window in the app when the

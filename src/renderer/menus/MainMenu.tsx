@@ -12,6 +12,7 @@ export const MainMenu = () => (
     <Paper elevation={0}>
       <List>
         <ListItemLink to="/level_menu" primary="Free Play" icon={<PlayArrowIcon />} />
+        <ListItemLink to="/level_creator" primary="Level Creator" icon={<PlayArrowIcon />} />
       </List>
       <Divider />
       <List>

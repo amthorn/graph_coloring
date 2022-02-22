@@ -10,7 +10,7 @@ export const LevelMenu = () => (
   <Box sx={{ width: 1 }}>
     <Paper elevation={0}>
       <List>
-        <ListItemLink to="/level_menu" primary="Back" icon={ <ArrowBackIosNewIcon /> }/>
+        <ListItemLink to="/main_menu" primary="Back" icon={ <ArrowBackIosNewIcon /> }/>
         {
           [...Array(levels).keys()].map(i => <ListItemLink to={ `/levels/${i}` } primary={ `Level ${i}` } />)
         }

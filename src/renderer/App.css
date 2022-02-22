@@ -70,3 +70,11 @@ a:hover {
   justify-content: center;
   align-items: center;
 }
+
+.react-flow__handle-top {
+  top: 13px !important;
+}
+
+.react-flow__handle-bottom {
+  bottom: 13px !important;
+}
